@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Área Privada - Actividad Módulo 6 - Curso Digitalización del Patrimonio Cultural (8ª Edición)</title>
+    <title>Área Privada - Actividad Módulo 3 - Curso Digitalización del Patrimonio Cultural (11ª Edición)</title>
     <link rel="stylesheet" href="<?php echo base_url(); ?>assets/css/foundation.css" />
 	<link rel="stylesheet" href="<?php echo base_url(); ?>assets/css/custom.css" />
     <script src="<?php echo base_url(); ?>assets/js/vendor/modernizr.js"></script>
@@ -11,7 +11,7 @@
 <body>
 <div class="row">
     <div class="large-9 columns">
-        <h1><img src="<?php echo base_url(); ?>assets/img/logo.png"/>Curso Digitalización del Patrimonio Cultural (8ª Edición)</h1>
+        <h1><img src="<?php echo base_url(); ?>assets/img/logo.png"/>Curso Digitalización del Patrimonio Cultural (11ª Edición)</h1>
     </div>
     <div class="large-3 columns">
         <ul class="right button-group">

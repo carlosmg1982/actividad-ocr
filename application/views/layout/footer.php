@@ -3,7 +3,7 @@
         <hr/>
         <div class="row">
             <div class="large-12 columns">
-                <p>&copy; Copyright <?php echo date('Y') ?>. Curso Digitalización del Patrimonio Cultural (8ª Edición). Para cualquier problema o duda, contactar con <a href="mailto:carlos.martinez@cursodigitalizacion.com">carlos.martinez@cursodigitalizacion.com</a>.</p>
+                <p>&copy; Copyright <?php echo date('Y') ?>. Curso Digitalización del Patrimonio Cultural (11ª Edición). Para cualquier problema o duda, contactar con <a href="mailto:carlos.martinez@cursodigitalizacion.com">carlos.martinez@cursodigitalizacion.com</a>.</p>
             </div>
         </div>
     </div>
